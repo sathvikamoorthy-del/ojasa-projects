@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "id": 1788170951,
+      "type": "income",
+      "amount": 5000.0,
+      "category": "salary",
+      "description": "shopping",
+      "date": "2026-08-31",
+      "created_at": "2026-08-31T15:39:11.391419"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-31T15:39:11.391430",
+    "total_transactions": 1
+  }
+}
